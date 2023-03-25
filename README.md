@@ -30,7 +30,7 @@ Puedes encontrar algunos de mis proyectos en mi perfil de GitHub. Si estás inte
 
 ## Redes sociales
 
-   <a href="https://airtable.com/apppID1LI2kJ8AxMN/tblwCXvslOeH7IDuP/viwNgN30kLiOiqEHt/recIPipSqEDnqoWbs/fldNuY7AIIFKKuF3S?copyLinkToCellOrRecordOrigin=gridView" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/nathalia-garc%C3%ADa-cruz-524b42205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:nthaliagarcia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 --------
