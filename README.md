@@ -43,6 +43,14 @@ Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi por
 
 -----------
 
+</p><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NGCnathalia&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="NathaliaGarcia" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGCnathalia&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
+ </p>
+ 
+-----------
 <h3 align="center">¡Gracias por pasar por aquí!</h3>
 <h4 align="center">Siéntete libre de explorar mis proyectos y dejar comentarios o sugerencias. </h4>
 <h4 align="center">¡Siempre estoy buscando maneras de mejorar!</h4>
+
