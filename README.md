@@ -1,4 +1,4 @@
-## ¡Hola, soy Nathalia! 👋
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola, soy Nathalia! 👋
 
 ¡Hola! Bienvenido/a a mi perfil de GitHub. Soy Nathalia Garcia Cruz, una desarrolladora web Full Stack apasionada por la tecnología y comprometida con el aprendizaje continuo.
 
